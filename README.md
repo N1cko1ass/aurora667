@@ -1,1 +1,9 @@
-# aurora667
+# nFactorial-AI-Cup-AppTrack
+
+## Nrudaulet
+
+
+## AUrora
+
+deployded link 
+
